@@ -12,4 +12,5 @@ Use Django REST Framework to create an API, then “containerize” it with Dock
 - Finish time: 4:30 pm
 
 ## Links:
+Deployment:[Heroku app](https://drf-deploy.herokuapp.com/)
 PR Link :[drf-deploy](https://github.com/NiveenAlSmadi/drf-deploy/pull/1)
